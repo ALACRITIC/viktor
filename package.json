@@ -29,7 +29,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "angular-bootstrap-npm": "^0.13.0",
+    "angular-bootstrap-npm": "^0.14.0",
     "angular-local-storage": "^0.1.5",
     "deep-equal": "^1.0.1",
     "express": "^4.12.3",
